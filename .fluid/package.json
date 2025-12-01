@@ -3,7 +3,7 @@
   "run_after_install" : [
     "echo get-pip file is installed!",
     "echo to install pip, open $HOME/Fluid/pip and run \"get-pip.py\" ",
-    "echo Credits to pip developers."
+    "echo Distributed under MIT License Copyright (c) 2008-2019 The pip developers"
   ],
   "official" : true
 }
