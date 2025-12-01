@@ -1,0 +1,9 @@
+{
+  "os" : "all",
+  "run_after_install" : [
+    "echo get-pip file is installed!",
+    "echo to install pip, open $HOME/Fluid/pip and run \"get-pip.py\" ",
+    "echo Credits to pip developers."
+  ],
+  "official" : true
+}
